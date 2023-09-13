@@ -13,10 +13,6 @@ Utilizing **Supplementary Cementitious Materials (SCMs)** as partial substitutes
 
 A comprehensive dataset, encompassing both SCMs and SCM-integrated cementitious materials, has been collected. The dataset features include particle size, chemical compositions, mineralogical components, and standardized test parameters alongside the associated specimen formulations. Within this dataset, various indices serve as labels, including reactivity heat, and compressive strength.
 
-Dataset structure:
-
-![SCM dataset structure](./Picture1.png)
-
 
 Dataset file: [SCM reactivity](https://github.com/kycai/dataset-portfolio/tree/main/datasets)
 
