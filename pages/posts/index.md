@@ -1,8 +1,7 @@
 ---
 type: posts
-title: Posts
+title: Datasets
 date: 2023-09-13
 ---
 
-# Dataset
-[SCM](./scm.md)
+# Datasets
