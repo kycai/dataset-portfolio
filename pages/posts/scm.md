@@ -11,7 +11,7 @@ author: Kangyi Cai
 
 Utilizing **Supplementary cementitious materials (SCMs)** as partial substitutes for cement presents a viable approach to concrete decarbonization. Given the vast sources of SCMs and their varied compositions, designing cementitious mixtures that incorporate SCMs and achieve the desired performance (e.g., adequate strength) becomes complicated.
 
-A comprehensive dataset has been collected, encompassing both SCMs and SCM-integrated cementitious materials. The dataset features include physical particle size, chemical composition, mineralogical composition, test configuration parameter, and sample formulation (features), as well as various engineering performance indexes (labels).
+A comprehensive dataset has been collected, encompassing both SCMs and SCM-integrated cementitious materials. The dataset features include physical particle size, chemical composition, mineralogical composition, test configuration parameter, and sample formulation (features), as well as engineering performance indexes (labels).
 
 
 Dataset file: [SCM reactivity](https://github.com/kycai/dataset-portfolio/tree/main/datasets)
