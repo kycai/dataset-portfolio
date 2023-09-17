@@ -1,7 +1,7 @@
 ---
 title: SCM dataset
 date: 2023/09/13
-description: A brief introduction of SCM dataset.
+description: A brief introduction to the SCM dataset.
 tag: dataset
 author: Kangyi Cai
 ---
@@ -9,9 +9,9 @@ author: Kangyi Cai
 # SCM dataset
 
 
-Utilizing **Supplementary Cementitious Materials (SCMs)** as partial substitutes for cement presents a viable approach to concrete decarbonization. Given the vast sources of SCMs and their varied compositions, designing cementitious mixtures that incorporate SCMs and achieve desired performance (e.g., adequate strength) becomes complicated.
+Utilizing **Supplementary cementitious materials (SCMs)** as partial substitutes for cement presents a viable approach to concrete decarbonization. Given the vast sources of SCMs and their varied compositions, designing cementitious mixtures that incorporate SCMs and achieve the desired performance (e.g., adequate strength) becomes complicated.
 
-A comprehensive dataset, encompassing both SCMs and SCM-integrated cementitious materials, has been collected. The dataset features include particle size, chemical compositions, mineralogical components, and standardized test parameters alongside the associated specimen formulations. Within this dataset, various indices serve as labels, including reactivity heat, and compressive strength.
+A comprehensive dataset has been collected, encompassing both SCMs and SCM-integrated cementitious materials. The dataset features include physical particle size, chemical composition, mineralogical composition, test configuration parameter, and sample formulation (features), as well as various engineering performance indexes (labels).
 
 
 Dataset file: [SCM reactivity](https://github.com/kycai/dataset-portfolio/tree/main/datasets)
